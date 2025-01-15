@@ -5,7 +5,7 @@ export default function APITest() {
 
     async function handleClick() {
         try {
-            const response = await fetch('https://sturdy-space-spork-x9wx9v79774fjxg-3001.app.github.dev/api/example/');
+            const response = await fetch('http://localhost:3001/api/example/');
             const data = await response.json();
 
             setTestString(`Data: ${data.message}`);
