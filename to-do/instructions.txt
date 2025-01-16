@@ -1,0 +1,19 @@
+We want you to create a To-Do list using React
+
+1. Use state to keep track of different Todo Items
+2. Create a button that allows you to add a new item for the Todo
+3. When a new Todo is created, display the todo
+4. Create a clear button that clears all todo Items
+
+Extra Credit
+1a. Create individual delete buttons on each Todo list, 
+that allows you to delete just one instead of all of them
+
+1b. OR Create a strikethrough, when the todo item is clicked
+
+2. Make it pretty
+
+Note:
+- Feel free to adjust exsisting styling
+- Feel free to ignore proptypes right now.
+- When everything is installed, to run the app, use "npm run dev" to start localhost
